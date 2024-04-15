@@ -1,2 +1,1 @@
-# RemoteLearningTool
-CS 361 (Software Engineering I Project)
+Initial commit for Remote Learning Tool
